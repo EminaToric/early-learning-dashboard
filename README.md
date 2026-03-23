@@ -2,7 +2,7 @@
 
 An interactive data dashboard examining early childhood education across seven global regions — looking at enrollment, literacy outcomes, government spending, classroom conditions, and gender gaps in access.
 
-**Live Demo:** [View Dashboard](#) ← replace with your Vercel URL
+**Live Demo:** [View Dashboard](early-learning-dashboard.vercel.app) 
 
 ---
 
